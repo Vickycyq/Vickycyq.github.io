@@ -10,7 +10,7 @@
 <meta name="description" content="🔗友链 - Yuqi Chen&#39;s Blog">
 <meta name="author" content="Yuqi">
 <link rel="canonical" href="https://vickycyq.github.io/zh/link/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.5cfc680b1eeaeef9efbced92d46c2a9e876b72ee14fba85846afc4cff9e6e6f8.css" integrity="sha256-XPxoCx7q7vnvvO2S1Gwqnodrcu4U&#43;6hYRq/Ez/nm5vg=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.be5f796b2b694f5ee1cff9d881c9e496306823086fce258f2b8e8dfabcc4dbcc.css" integrity="sha256-vl95aytpT17hz/nYgcnkljBoIwhvziWPK46N&#43;rzE28w=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
     onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://vickycyq.github.io/img/TX.JPG">
@@ -283,6 +283,40 @@
 </div>
 
   </footer>
+
+<style>
+    .comments_details summary::marker {
+        font-size: 20px;
+        content: '👉展开评论';
+        color: var(--content);
+    }
+    .comments_details[open] summary::marker{
+        font-size: 20px;
+        content: '👇关闭评论';
+        color: var(--content);
+    }
+</style>
+
+
+<div>
+    <details class="comments_details">
+        <summary style="cursor: pointer; margin: 50px 0 20px 0;width: 130px;">
+            <span style="font-size: 20px;color: var(--content);">...</span>
+        </summary>
+        <div id="tcomment"></div>
+    </details>
+    <script src="https://cdn.staticfile.org/twikoo/1.6.18/twikoo.all.min.js">
+    </script>
+    <script>
+        twikoo.init({
+            envId: "https://twikoo-api-weld-gamma.vercel.app/",
+        el: "#tcomment",
+            lang: 'zh-CN',
+            region: "ap-shenzhen",
+        path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
+        })
+    </script>
+</div>
 </article>
     </main>
     

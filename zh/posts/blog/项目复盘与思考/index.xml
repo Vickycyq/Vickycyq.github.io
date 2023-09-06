@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>项目复盘与思考 on Yuqi Chen&#39;s Blog</title>
+    <link>https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/</link>
+    <description>Recent content in 项目复盘与思考 on Yuqi Chen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 04 Sep 2023 18:21:03 +0800</lastBuildDate><atom:link href="https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>战略决策分析框架建立与思考</title>
+      <link>https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/%E6%88%98%E7%95%A5/</link>
+      <pubDate>Mon, 04 Sep 2023 18:21:03 +0800</pubDate>
+      
+      <guid>https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/%E6%88%98%E7%95%A5/</guid>
+      <description>结论 战略决策分析框架建立方法论 1. 战略决策规划推导 1.1 战略决策业务框架及业务闭环思路 通过拆解战略决策全生命旅程，结合华为“五看三定”模型以及DS</description>
+    </item>
+    
+  </channel>
+</rss>
