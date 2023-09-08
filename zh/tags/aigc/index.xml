@@ -8,48 +8,39 @@
     <language>zh</language>
     <lastBuildDate>Tue, 05 Sep 2023 08:26:38 +0800</lastBuildDate><atom:link href="https://vickycyq.github.io/zh/tags/aigc/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AIGC及提示词工程简介</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/%E7%AE%80%E4%BB%8B/prompt/</link>
-      <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
-      
-      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/%E7%AE%80%E4%BB%8B/prompt/</guid>
-      <description>1. AIGC简介 1.1 概念 1.2 大语言模型简介 语言模型的本质是对任意一段文本序列的概率进行建模 如果将语言模型看成一个大黑盒的话，它的输入是一段文本序列</description>
-    </item>
-    
-    <item>
-      <title>Chain-of-Thought Prompting</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/cot_prompting/</link>
-      <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
-      
-      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/cot_prompting/</guid>
-      <description>&amp;ldquo;Chain-of-Thought Prompting&amp;quot;是指在demonstration中设计一系列连贯的思维步骤从而引导模型在面对复杂的推理任务时，将问题分解成多</description>
-    </item>
-    
-    <item>
-      <title>Few-Shot Prompting</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</link>
-      <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
-      
-      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</guid>
-      <description>在完成更复杂的任务时，零样本提示表现不佳，此时可以使用少样本提示（few-shot prompting），启用in-context learni</description>
-    </item>
-    
-    <item>
       <title>Zero-Shot Prompting</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</link>
+      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/1-%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</link>
       <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
       
-      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</guid>
+      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/1-%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</guid>
       <description>&amp;ldquo;Zero-Shot Prompting&amp;quot;也称为“零样本提示”，是指在机器学习和自然语言处理中的一种技术，用于解决模型在处理未曾见过的、未经训练的类别</description>
     </item>
     
     <item>
-      <title>AIGC&#43;游戏在酒行业营销中的应用</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/aigc/aigc&#43;%E6%B8%B8%E6%88%8F%E5%9C%A8%E9%85%92%E6%B0%B4%E9%A5%AE%E6%96%99%E8%A1%8C%E4%B8%9A%E4%B8%AD%E5%BA%94%E7%94%A8%E7%9A%84%E7%A0%94%E7%A9%B6/</link>
-      <pubDate>Mon, 04 Sep 2023 18:41:57 +0800</pubDate>
+      <title>Few-Shot Prompting</title>
+      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/2-%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</link>
+      <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
       
-      <guid>https://vickycyq.github.io/zh/posts/blog/aigc/aigc&#43;%E6%B8%B8%E6%88%8F%E5%9C%A8%E9%85%92%E6%B0%B4%E9%A5%AE%E6%96%99%E8%A1%8C%E4%B8%9A%E4%B8%AD%E5%BA%94%E7%94%A8%E7%9A%84%E7%A0%94%E7%A9%B6/</guid>
-      <description>结论 AIGC可在游戏生产端、游戏运营端以及玩家体验端全方位赋能游戏产业，帮助游戏企业实现降本增效，开发创新玩法，提高玩家在游戏过程中的各项体</description>
+      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/2-%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</guid>
+      <description>在完成更复杂的任务时，零样本提示表现不佳，此时可以使用少样本提示（few-shot prompting），启用in-context learni</description>
+    </item>
+    
+    <item>
+      <title>Chain-of-Thought Prompting</title>
+      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/3-cot_prompting/</link>
+      <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
+      
+      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/3-cot_prompting/</guid>
+      <description>&amp;ldquo;Chain-of-Thought Prompting&amp;quot;是指在demonstration中设计一系列连贯的思维步骤从而引导模型在面对复杂的推理任务时，将问题分解成多</description>
+    </item>
+    
+    <item>
+      <title>Generated Knowledge Prompting</title>
+      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/5-generated-knowledge-prompting/</link>
+      <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
+      
+      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/5-generated-knowledge-prompting/</guid>
+      <description>Liu et al.(2022)的论文提出了“知识生成提示”这种方式，主要做法是（1）先用few-shot demonstration的方式从语言模型中</description>
     </item>
     
   </channel>
