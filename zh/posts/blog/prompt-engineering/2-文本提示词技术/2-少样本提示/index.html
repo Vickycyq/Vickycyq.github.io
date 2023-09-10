@@ -10,6 +10,24 @@
 <meta name="description" content="在完成更复杂的任务时，零样本提示表现不佳，此时可以使用少样本提示（few-shot prompting），启用in-context learni">
 <meta name="author" content="Yuqi Chen">
 <link rel="canonical" href="https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/2-%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/">
+
+
+<script async src="//cdn.busuanzi.ibruce.info/cdn/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<script src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function() {
+        var int = setInterval(fixCount, 100);
+        var busuanziSiteOffset =  null 
+        function fixCount() {
+            if ($("#busuanzi_container_site_pv").css("display") != "none") {
+                clearInterval(int);
+                $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + busuanziSiteOffset);
+            }
+        }
+    });
+</script>
+
 <link crossorigin="anonymous" href="/assets/css/stylesheet.be5f796b2b694f5ee1cff9d881c9e496306823086fce258f2b8e8dfabcc4dbcc.css" integrity="sha256-vl95aytpT17hz/nYgcnkljBoIwhvziWPK46N&#43;rzE28w=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
     onload="hljs.initHighlightingOnLoad();"></script>
@@ -218,9 +236,23 @@
     <h1 class="post-title">
       Few-Shot Prompting
     </h1>
-    <div class="post-meta"><span title='2023-09-05 08:26:38 +0800 CST'>2023-09-05</span>&nbsp;·&nbsp;4 分钟&nbsp;·&nbsp;Yuqi Chen
+    <div class="post-meta">
 
-</div>
+
+
+
+
+
+
+<span title='2023-09-05 08:26:38 +0800 CST'>2023-09-05</span>&nbsp;｜&nbsp;更新:&nbsp;2023-09-05&nbsp;｜&nbsp;4 分钟&nbsp;｜&nbsp;Yuqi Chen
+
+
+      <div  class="meta-item">&nbsp·&nbsp
+      <span id="busuanzi_container_page_pv">本文阅读量<span id="busuanzi_value_page_pv"></span>次</span>
+      </div>
+      <span class="post-word-count">, 1845 words</span>
+    </div>
+    
   </header> 
 
   <div class="post-content"><p>在完成更复杂的任务时，零样本提示表现不佳，此时可以使用少样本提示（few-shot prompting），启用in-context learning，通过为模型提供demonstration引导模型实现更好的性能。</p>
@@ -347,7 +379,15 @@ A：
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
-</footer>
+    
+    <div class="busuanzi-footer">
+        <span id="busuanzi_container_site_pv">
+        本站总访问量<span id="busuanzi_value_site_pv"></span>次
+    </span>
+        <span id="busuanzi_container_site_uv">
+        本站访客数<span id="busuanzi_value_site_uv"></span>人次
+    </span>
+    </div></footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
