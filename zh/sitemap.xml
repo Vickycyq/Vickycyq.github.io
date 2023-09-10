@@ -43,19 +43,6 @@
                 href="https://vickycyq.github.io/zh/posts/blog/"
                 />
   </url><url>
-    <loc>https://vickycyq.github.io/zh/posts/project/</loc>
-    <lastmod>2023-09-05T08:26:38+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://vickycyq.github.io/en/posts/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://vickycyq.github.io/zh/posts/project/"
-                />
-  </url><url>
     <loc>https://vickycyq.github.io/zh/tags/aigc/</loc>
     <lastmod>2023-09-05T08:26:38+08:00</lastmod>
   </url><url>
@@ -117,9 +104,6 @@
                 href="https://vickycyq.github.io/zh/"
                 />
   </url><url>
-    <loc>https://vickycyq.github.io/zh/posts/project/%E7%94%B5%E5%95%86%E9%94%80%E5%94%AE%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/</loc>
-    <lastmod>2023-09-05T08:26:38+08:00</lastmod>
-  </url><url>
     <loc>https://vickycyq.github.io/zh/categories/%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</loc>
     <lastmod>2023-09-05T08:26:38+08:00</lastmod>
   </url><url>
@@ -166,6 +150,18 @@
                 />
   </url><url>
     <loc>https://vickycyq.github.io/zh/link/</loc>
+  </url><url>
+    <loc>https://vickycyq.github.io/zh/posts/project/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://vickycyq.github.io/en/posts/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://vickycyq.github.io/zh/posts/project/"
+                />
   </url><url>
     <loc>https://vickycyq.github.io/zh/archives/</loc>
   </url><url>
