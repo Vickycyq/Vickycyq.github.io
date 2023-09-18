@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>终端管理 on Yuqi Chen&#39;s Blog</title>
+    <link>https://vickycyq.github.io/zh/tags/%E7%BB%88%E7%AB%AF%E7%AE%A1%E7%90%86/</link>
+    <description>Recent content in 终端管理 on Yuqi Chen&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 14 Sep 2023 18:21:03 +0800</lastBuildDate><atom:link href="https://vickycyq.github.io/zh/tags/%E7%BB%88%E7%AB%AF%E7%AE%A1%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>渠道管理分析框架建立与思考</title>
+      <link>https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/%E6%B8%A0%E9%81%93%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Thu, 14 Sep 2023 18:21:03 +0800</pubDate>
+      
+      <guid>https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/%E6%B8%A0%E9%81%93%E7%AE%A1%E7%90%86/</guid>
+      <description>1. 经销商管理业务框架 业务举措： 经销商准入：根据招商计划和市场情况提报经销商，通过对经销商的资质进行背调审核，并与符合标准的经销商签订合同 经销</description>
+    </item>
+    
+  </channel>
+</rss>

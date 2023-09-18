@@ -9,37 +9,37 @@
     <lastBuildDate>Tue, 05 Sep 2023 08:26:38 +0800</lastBuildDate><atom:link href="https://vickycyq.github.io/zh/categories/%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zero-Shot Prompting</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/1-%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</link>
+      <link>https://vickycyq.github.io/zh/posts/read/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/1-%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</link>
       <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
       
-      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/1-%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</guid>
+      <guid>https://vickycyq.github.io/zh/posts/read/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/1-%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</guid>
       <description>&amp;ldquo;Zero-Shot Prompting&amp;quot;也称为“零样本提示”，是指在机器学习和自然语言处理中的一种技术，用于解决模型在处理未曾见过的、未经训练的类别</description>
     </item>
     
     <item>
       <title>Few-Shot Prompting</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/2-%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</link>
+      <link>https://vickycyq.github.io/zh/posts/read/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/2-%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</link>
       <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
       
-      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/2-%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</guid>
+      <guid>https://vickycyq.github.io/zh/posts/read/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/2-%E5%B0%91%E6%A0%B7%E6%9C%AC%E6%8F%90%E7%A4%BA/</guid>
       <description>在完成更复杂的任务时，零样本提示表现不佳，此时可以使用少样本提示（few-shot prompting），启用in-context learni</description>
     </item>
     
     <item>
       <title>Chain-of-Thought Prompting</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/3-cot_prompting/</link>
+      <link>https://vickycyq.github.io/zh/posts/read/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/3-cot_prompting/</link>
       <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
       
-      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/3-cot_prompting/</guid>
+      <guid>https://vickycyq.github.io/zh/posts/read/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/3-cot_prompting/</guid>
       <description>&amp;ldquo;Chain-of-Thought Prompting&amp;quot;是指在demonstration中设计一系列连贯的思维步骤从而引导模型在面对复杂的推理任务时，将问题分解成多</description>
     </item>
     
     <item>
       <title>Generated Knowledge Prompting</title>
-      <link>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/5-generated-knowledge-prompting/</link>
+      <link>https://vickycyq.github.io/zh/posts/read/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/5-generated-knowledge-prompting/</link>
       <pubDate>Tue, 05 Sep 2023 08:26:38 +0800</pubDate>
       
-      <guid>https://vickycyq.github.io/zh/posts/blog/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/5-generated-knowledge-prompting/</guid>
+      <guid>https://vickycyq.github.io/zh/posts/read/prompt-engineering/2-%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%8A%80%E6%9C%AF/5-generated-knowledge-prompting/</guid>
       <description>Liu et al.(2022)的论文提出了“知识生成提示”这种方式，主要做法是（1）先用few-shot demonstration的方式从语言模型中</description>
     </item>
     
