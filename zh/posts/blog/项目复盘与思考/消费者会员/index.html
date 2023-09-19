@@ -10,11 +10,10 @@
 <meta name="description" content="1. 消费者会员分析体系 1.1 消费者会员闭环管理思路 通过梳理消费者生命周期及用户旅程，对用户生命周期每一阶段用户命名及定义，便于在系统中实现有效的数">
 <meta name="author" content="Yuqi Chen">
 <link rel="canonical" href="https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/%E6%B6%88%E8%B4%B9%E8%80%85%E4%BC%9A%E5%91%98/">
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <meta name="referrer" content="no-referrer-when-downgrade">
 
-
-<script async src="//cdn.busuanzi.ibruce.info/cdn/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<script src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
 <script>
     $(document).ready(function() {
         var int = setInterval(fixCount, 100);
@@ -28,7 +27,7 @@
     });
 </script>
 
-<link crossorigin="anonymous" href="/assets/css/stylesheet.be5f796b2b694f5ee1cff9d881c9e496306823086fce258f2b8e8dfabcc4dbcc.css" integrity="sha256-vl95aytpT17hz/nYgcnkljBoIwhvziWPK46N&#43;rzE28w=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.61c5ad6ba5146297832ee58284e25b4f112ed45979b5518901c68a3659055aa5.css" integrity="sha256-YcWta6UUYpeDLuWChOJbTxEu1Fl5tVGJAcaKNlkFWqU=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
     onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://vickycyq.github.io/img/TX.JPG">
@@ -78,11 +77,13 @@
 </noscript><meta property="og:title" content="消费者会员分析框架建立与思考" />
 <meta property="og:description" content="1. 消费者会员分析体系 1.1 消费者会员闭环管理思路 通过梳理消费者生命周期及用户旅程，对用户生命周期每一阶段用户命名及定义，便于在系统中实现有效的数" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/%E6%B6%88%E8%B4%B9%E8%80%85%E4%BC%9A%E5%91%98/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://vickycyq.github.io/zh/posts/blog/%E9%A1%B9%E7%9B%AE%E5%A4%8D%E7%9B%98%E4%B8%8E%E6%80%9D%E8%80%83/%E6%B6%88%E8%B4%B9%E8%80%85%E4%BC%9A%E5%91%98/" />
+<meta property="og:image" content="https://vickycyq.github.io/img/xfz1.jpg" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2023-09-14T18:21:03+08:00" />
 <meta property="article:modified_time" content="2023-09-14T18:21:03+08:00" />
 
-<meta name="twitter:card" content="summary"/>
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://vickycyq.github.io/img/xfz1.jpg" />
 <meta name="twitter:title" content="消费者会员分析框架建立与思考"/>
 <meta name="twitter:description" content="1. 消费者会员分析体系 1.1 消费者会员闭环管理思路 通过梳理消费者生命周期及用户旅程，对用户生命周期每一阶段用户命名及定义，便于在系统中实现有效的数"/>
 
@@ -114,7 +115,7 @@
   "articleBody": "1. 消费者会员分析体系 1.1 消费者会员闭环管理思路 通过梳理消费者生命周期及用户旅程，对用户生命周期每一阶段用户命名及定义，便于在系统中实现有效的数据集合，实现对消费者生命周期的管理与分析\n潜客：企业各内容营销渠道中计划触达的个体；或者关注了企业各个第三方渠道，接受品牌价值主张的，但是未购买未注册会员的个体 用户：指在企业自有的平台（如小程序）或第三方平台授权个人用户信息，拥有唯一账号的个体 顾客：指在公域或者私域下过单，有订单信息进入企业数据库，并且可以在数据中识别出个人信息的个体 会员：拥有账号并获得企业授权会员身份的个体 忠诚会员：发生复购的会员 超级会员：圈层裂变的原会员主体升级成为超级会员 1.2 消费者会员管理核心指标框架 2. 消费者会员运营分析体系 2.1 消费者画像 消费者画像：即对消费者信息标签化。通过收集与分析消费者社会属性、生活习惯、消费行为等数据，根据各属性差异分为不同类型，将新类型提炼形成用户画像。\n基于用户画像的标签信息，企业可以有针对性地更新产品，使产品更贴合用户需求 通过标签可以迅速找到某一类型的用户进行精准营销 “ta是谁”:对消费者的性别、年龄段、学历、城市、社会属性等进行分析，识别企业/品牌/产品整体消费者物理属性信息及画像情况，可以为品牌/产品营销策略或者品牌策略提供方向。 “ta喜欢什么“：对消费者的品牌偏好、礼品偏好、价格带偏好、规格偏好等进一步分析完善用户画像 “ta从哪买“：对消费者的信息渠道、入会渠道、购买渠道进行分析，识别企业/品牌/产品的消费者/会员的行为习惯及动因，为后续优化消费者触点提供判断决策支撑 后续策略：\n通过用户画像，找到不同类型的标准用户聚集的平台 根据平台的特点和投放方式，匹配到免费/付费的推广方式 策划不同类型的运营方式：拉新活动、激活活动、老用户维护活动、用户增值拓展活动等 执行方案 根据执行后数据反馈，调整策略，优化推广效果 2.2 消费者生命周期分析 引入期：这一时期主要目标是将潜在用户转化为产品新用户，可以通过广告投放、地推、老带新活动、分享裂变等方式拉新 成长期：这一时期主要目标是通过各种策略提升用户留存及交易，可以通过收集用户反馈，提高产品体验、推出新产品等帮助用户转化 成熟期：通过交叉促销活动、社群运营、设置会员成长体系、优化核心产品功能等方式满足用户需求，提升用户粘性和交易 休眠期\u0026流失期：这一时期主要目标是通过一些运营策略来预警和挽回用户，激活这部分沉默用户。通过数据判断这部分用户的体量，通过短信或者电话触达用户 2.3 会员资产与洞察 核心发展 重要保持客户、重要发展客户、重要挽留客户的数量，并且将他们不断转化为重要价值客户 重要保持客户：这种客户是最近消费时间比较远，但是消费金额和消费频次都很高，是一段时间没来消费的忠诚客户，应该主动保持联系，召回忠诚客户 重要发展客户：最近消费时间比较近，消费金额高，但是消费频次不高，说明这类客户忠诚度不高，应该在这类客户消费过程中保证服务体验，培养客户成为忠诚客户 重要挽留客户：最近消费时间比较远，消费频次不高，但是消费金额比较高，这类用户即将流失，应该联系客户，分析业务问题，改进问题并对客户予以挽留 在会员运营过程中，可结合RFM模型或者其他体现会员价值的模型、会员画像对不同类型的会员实施不同的运营策略，提高转化率\n会员生命周期分析：通过查看每月新增会员、活跃会员、沉睡会员、流失会员的数量分布，识别企业不同阶段会员运营情况，评估运营效果；通过对不同会员活跃情况，判断会员所处的生命周期阶段，根据不同阶段采取不同措施，例如如引导下单（新会员）、个性化推荐营销（活跃会员）、回归消费活动（沉睡会员）等 会员积分权益分析：对会员积分获取及使用情况进行分析，例如积分发放方式分布、积分新增及消耗趋势、会员等级积分分布等。通过对积分消费结构及趋势分析，可以灵活掌控用户积分发放，维持客户忠诚度，提升客户价值。 ",
   "wordCount" : "1605",
   "inLanguage": "zh",
-  "datePublished": "2023-09-14T18:21:03+08:00",
+  "image":"https://vickycyq.github.io/img/xfz1.jpg","datePublished": "2023-09-14T18:21:03+08:00",
   "dateModified": "2023-09-14T18:21:03+08:00",
   "author":[{
     "@type": "Person",
@@ -253,7 +254,10 @@
       <span class="post-word-count">, 1605 words</span>
     </div>
     
-  </header> <aside id="toc-container" class="toc-container wide">
+  </header> 
+<figure class="entry-cover1"><img loading="lazy" src="https://vickycyq.github.io/img/xfz1.jpg" alt="">
+        
+</figure><aside id="toc-container" class="toc-container wide">
     <div class="toc">
         <details  open>
             <summary accesskey="c" title="(Alt + C)">
@@ -478,10 +482,10 @@
     <div class="busuanzi-footer">
         <span id="busuanzi_container_site_pv">
         本站总访问量<span id="busuanzi_value_site_pv"></span>次
-    </span>
+        </span>
         <span id="busuanzi_container_site_uv">
         本站访客数<span id="busuanzi_value_site_uv"></span>人次
-    </span>
+        </span>
     </div></footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
